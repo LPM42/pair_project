@@ -1,0 +1,9 @@
+{
+  "name": "pair-project",
+  "description": "uses request node module",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.0.0",
+    "request": "^2.40.0"
+  }
+}
